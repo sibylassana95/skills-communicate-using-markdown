@@ -4,3 +4,4 @@
 ``` javascript
 var myVar = "Bonjour tout le monde !";
 ```
+
